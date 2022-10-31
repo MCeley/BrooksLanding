@@ -2,7 +2,7 @@
 
 1. <a href="sections/1-recitals.html">Declaration and Recitals</a>
 2. <a href="sections/2-definitions.html">Definitions</a>
-3. Plan of Development
+3. <a href="sections/3-plan-of-development.html">Plan of Development</a>
 4. Amendments
 5. Annexation and Withdrawl
 6. Dissolution
