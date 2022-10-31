@@ -70,3 +70,16 @@
 
 - <u>"Special Assessments"</u> shall mean those Assessments more particularly described as Special Assessments in Section 16.2.2 hereof.
 
+- <u>"Structure"</u> shall mean any thing or object, the placement of which upon any Lot may affect the appearance of such Lot, including by way of illustration and not limitation, any building or part thereof, garage, porch, shed, greenhouse, bathhouse, covered or uncovered patio, playhouse, playset, treehouse, swimming pool, fence, recreational equipment, curbing, paving, wall, sign, signboard, bulletin board, on-site sanitary system, dock, gazebo, temporary or permanent living quarters (including any house trailer) or any other temporary or permanent improvement to such Lot, and any excavation, grading, fill, ditch, diversion, dam, or other thing or device which affects or alters the flow of any waters from, upon or across any Lot.
+
+- <u>"Surface Water Management System"</u> shall mean the collection of devices, improvements, or natural systems whereby surface waters are controlled, impounded or obstructed. This term includes exfiltration trenches, Wetland Conservation Areas, mitigation areas, lakes, retention areas, water management areas, ditches, culverts, structures, dams, impoundments, reservoirs, drainage maintenance easements and those works defined in Section 373.403(1)-(5) of the Florida Statutes. The Brooks Landing Surface Water Management System includes those works authorized by SJRWMD pursuant to the Permit.
+
+- <u>"Title Documents"</u> shall have the meaning set forth in Section 23.8 hereof.
+
+- <u>"Turnover Date"</u> shall mean the date on which Members other than Declarant or any of Declarant's designees, successors and/or assigns shall be entitled to elect a majority of the Association's Board. For purposes of this Declaration, the phrase "Members other than Declarant or any of Declarant's designees, successors and/or assigns" shall not include Builders, Contractors and/or any other person or entity that owns a Lot for the purpose of constructing a Home and/or other improvements thereon for resale.
+
+- <u>"Use Fees"</u> shall have the meaning set forth in Section 16.2.3 hereof.
+
+- <u>"Voting Interest" or "Voting Interests"</u> shall mean the voting rights held by the Members as set forth in the Association Documents.
+
+- <u>"Wetland Conservation Areas"</u> shall have the meaning set forth in Section 10.3 herein. The Wetland Conservation Areas are part of the Common Areas and will be maintained by Association and/or CDD.
